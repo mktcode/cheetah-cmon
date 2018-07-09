@@ -1,3 +1,3 @@
-# cheetah-cmon
+# Cheetah! C'mon!
 
 A bot with the mission of making @cheetah aware of it being wrong about @the-magic-frog...
