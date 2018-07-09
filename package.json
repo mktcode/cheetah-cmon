@@ -9,7 +9,6 @@
   "author": "mkt <kontakt@markus-kottlaender.de>",
   "license": "GPL-3.0",
   "dependencies": {
-    "axios": "^0.18.0",
     "steem": "^0.7.1"
   }
 }
