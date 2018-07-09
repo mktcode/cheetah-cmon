@@ -1,0 +1,15 @@
+{
+  "name": "cheetah-cmon",
+  "version": "1.0.0",
+  "description": "Autoresponder for Cheetah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mkt <kontakt@markus-kottlaender.de>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "steem": "^0.7.1"
+  }
+}
