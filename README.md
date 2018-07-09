@@ -14,6 +14,7 @@ The bot is very simple. It looks for a comment from @cheetah on the latest post 
 ```
 git clone https://github.com/mktcode/cheetah-cmon.git
 cd cheetah-cmon
+git checkout general-purpose
 npm i
 export POSTING_KEY=...
 export ACCOUNT=...
